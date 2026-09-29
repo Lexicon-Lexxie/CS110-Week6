@@ -1,0 +1,7 @@
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\bin\Debug\CS110-Week6.exe.config
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\bin\Debug\CS110-Week6.exe
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\bin\Debug\CS110-Week6.pdb
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\obj\Debug\CS110-Week6.csproj.AssemblyReference.cache
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\obj\Debug\CS110-Week6.csproj.CoreCompileInputs.cache
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\obj\Debug\CS110-Week6.exe
+C:\Users\Lexxie Ayala\source\repos\CS110-Week6\obj\Debug\CS110-Week6.pdb
