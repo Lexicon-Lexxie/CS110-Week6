@@ -1,0 +1,1 @@
+The app asks for user to press the button, then provides a text prompt when button is pressed. User will then input text (their name) and app will store that data. Then when the text is submit, it will output a line that says "Welcome (user input name)"
