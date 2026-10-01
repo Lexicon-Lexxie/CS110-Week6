@@ -1,0 +1,15 @@
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\bin\Debug\MyRPGpt2.exe.config
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\bin\Debug\MyRPGpt2.exe
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\bin\Debug\MyRPGpt2.pdb
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.csproj.AssemblyReference.cache
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MainWindow.g.cs
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\App.g.cs
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2_MarkupCompile.cache
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2_MarkupCompile.lref
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MainWindow.baml
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.g.resources
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.Properties.Resources.resources
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.csproj.GenerateResource.cache
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.csproj.CoreCompileInputs.cache
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.exe
+C:\Users\Lexxie Ayala\source\repos\MyRPGpt2\obj\Debug\MyRPGpt2.pdb
